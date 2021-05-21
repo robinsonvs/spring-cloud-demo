@@ -14,7 +14,8 @@ public class Cart {
 
     private List<Item> items;
 
-    public Cart() {
+    public Cart(Integer id) {
+        this.id = id;
     }
 
     public Integer getId() {
