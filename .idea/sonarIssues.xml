@@ -73,6 +73,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/shopping-cart/src/main/java/com/severo/cloud/shoppingcart/model/Cart.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/shopping-cart/src/main/java/com/severo/cloud/shoppingcart/model/Item.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/shopping-cart/src/main/java/com/severo/cloud/shoppingcart/repository/ShoppingCartRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
       </map>
     </option>
   </component>
