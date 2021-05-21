@@ -13,6 +13,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/product-catalog/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-catalog/src/main/java/com/severo/cloud/productcatalog/config/ElasticSearchConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
       </map>
     </option>
   </component>
