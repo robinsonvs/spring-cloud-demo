@@ -3,6 +3,31 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../ProjetosDBC/Getnet/monitoring-ms/build_esteira/app.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../ProjetosDBC/Getnet/monitoring-ms/src/main/java/br/com/getnet/credenciamentodigital/monitoring/config/MultipleMongoConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../ProjetosDBC/Getnet/monitoring-ms/src/main/java/br/com/getnet/credenciamentodigital/monitoring/service/MonitoringAlarmsService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../ProjetosDBC/Getnet/monitoring-ms/src/main/resources/application-hti.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/docker-compose.yml">
           <value>
             <set />
@@ -19,6 +44,21 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/product-catalog/src/main/java/com/severo/cloud/productcatalog/config/ElasticSearchConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-catalog/src/main/java/com/severo/cloud/productcatalog/controller/ProductController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-catalog/src/main/java/com/severo/cloud/productcatalog/model/Product.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-catalog/src/main/java/com/severo/cloud/productcatalog/repository/ProductRepository.java">
           <value>
             <set />
           </value>
