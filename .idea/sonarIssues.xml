@@ -8,6 +8,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../../ProjetosDBC/Getnet/merchant-ms/src/main/java/br/com/getnet/credenciamentodigital/merchant/helper/MerchantSubStatusHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../ProjetosDBC/Getnet/merchant-ms/src/main/resources/application-prd.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../../ProjetosDBC/Getnet/monitoring-ms/build_esteira/app.yaml">
           <value>
             <set />
@@ -24,6 +34,36 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../../../ProjetosDBC/Getnet/monitoring-ms/src/main/resources/application-hti.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/config-server/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/config-server/src/main/java/com/severo/cloud/configserver/ConfigServerApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/config-server/src/main/java/com/severo/cloud/configserver/main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/config-server/src/main/java/com/severo/cloud/configserver/main2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/config-server/src/main/java/com/severo/cloud/configserver/main3.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/config-server/src/main/resources/application.properties">
           <value>
             <set />
           </value>
