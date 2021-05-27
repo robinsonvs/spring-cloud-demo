@@ -118,6 +118,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/service-discovery/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/service-discovery/src/main/java/com/severo/cloud/servicediscovery/ServiceDiscoveryApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/service-discovery/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/shopping-cart/build.gradle">
           <value>
             <set />
